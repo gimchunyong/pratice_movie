@@ -1,4 +1,4 @@
-#React app
+# React app
 
 This is toy project movie app
 
